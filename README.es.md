@@ -10,6 +10,7 @@
 </p>
 
 <p align="center"> <sub>Este README está en español. <a href="./README.md">English version available here</a>.</sub> </p>
+
 ## Descripcción
 
 Hallazgos de seguridad y PoCs sobre GTX Trading API, un proyecto educativo de la universidad (FastAPI + PostgreSQL).
