@@ -19,7 +19,7 @@ Security findings & PoCs on GTX Trading API, an educational university project (
 
 | Finding                               | File                        | Patch   |
 | ------------------------------------- | --------------------------- | ------- |
-| Resource-exhaustion DoS on /api/login | [DoS](DoS_Login.md) | Pending |
+| Resource-exhaustion DoS on /api/login | [DoS](reports/DoS_Login.md) | Pending |
 
 ## Methodology
 
